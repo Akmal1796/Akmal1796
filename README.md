@@ -34,6 +34,9 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div> 
+<br/>
+
+Stats 📊
   
 ![akmal1796's Stats](https://github-readme-stats.vercel.app/api?username=akmal1796&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![akmal1796's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akmal1796&theme=vue-dark&hide_border=true)
 
