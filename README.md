@@ -26,6 +26,4 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akmal1796&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akmal1796&show_icons=true&locale=en" alt="akmal1796" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akmal1796&" alt="akmal1796" /></p>
