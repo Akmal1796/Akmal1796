@@ -34,13 +34,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div> 
+  
+![akmal1796's Stats](https://github-readme-stats.vercel.app/api?username=akmal1796&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<div align="center">
-  
-  ![akmal1796's Stats](https://github-readme-stats.vercel.app/api?username=akmal1796&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-  
-  ![akmal1796's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akmal1796&theme=vue-dark&hide_border=false)
-  
-  ![akmal1796's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal1796&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![akmal1796's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akmal1796&theme=vue-dark&hide_border=true)
 
-</div>
+![akmal1796's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal1796&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
