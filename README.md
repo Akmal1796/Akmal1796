@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmal1796" alt="akmal1796" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akmal1796&show_icons=true&locale=en&layout=compact" alt="akmal1796" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akmal1796&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akmal1796&show_icons=true&locale=en" alt="akmal1796" /></p>
 
