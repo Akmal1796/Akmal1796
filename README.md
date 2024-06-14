@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Nike Site Clone](https://github.com/Akmal1796/Nike)
 
-- 🌱 I’m currently learning **JavaScript, React JS**
+- 🌱 I’m currently learning **React JS, C#, and .Net**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, and JavaScript 😃**
 
 <br/>
 <br/>
