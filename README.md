@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/akmal_official_" target="blank"><img src="https://img.shields.io/twitter/follow/akmal_official_?logo=twitter&style=for-the-badge" alt="akmal_official_" /></a> </p>
 
-- 🔭 I’m currently working on [Nike Site Clone](https://github.com/Akmal1796/Nike)👨‍💼
+- 🔭 I’m currently working on [Nike Site Clone](https://github.com/Akmal1796/Nike)
 
-- 🌱 I’m currently learning **React JS, C#, and .Net**👨‍🎓
+- 🌱 I’m currently learning **React JS, C#, and .Net**
 
 - 💬 Ask me about **HTML, CSS, and JavaScript**😃
 
