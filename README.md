@@ -39,4 +39,6 @@
 
 ![akmal1796's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal1796&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=akmal1796&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=akmal1796)](https://github.com/ryo-ma/github-profile-trophy)
