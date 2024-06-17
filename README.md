@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS, C#, and .Net**
 
-- 💬 Ask me about **HTML, CSS, and JavaScript**😃
+- 💬 Ask me about **HTML, CSS, and JavaScript 😃**
 
 <br/>
 <br/>
