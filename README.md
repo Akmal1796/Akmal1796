@@ -13,8 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, and JavaScript 😃**
 
-<br/>
-<br/><br/>
+<br/><br/><br/>
 <br/>
 <br/>
 
