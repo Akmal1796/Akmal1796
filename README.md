@@ -1,7 +1,7 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Mohamed Akmal</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
-<img align="right" alr="Coding" width="400" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
+<img align="right" alr="Coding" width="400" src="[https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)">
 <br/><br/><br/><br/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmal1796&label=Profile%20views&color=0e75b6&style=flat" alt="akmal1796" /> </p>
