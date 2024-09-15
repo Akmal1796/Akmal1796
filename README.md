@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmal1796&label=Profile%20views&color=0e75b6&style=flat" alt="akmal1796" /> </p>
 
 
-- 🔭 I’m currently working on [Task Management Web Application](https://github.com/Akmal1796/ToDoApp) 💻
+- 🔭 I’m currently working on [Task Management Web Application](https://github.com/Akmal1796/Task-Mangement-System) 💻
 
 - 🌱 I’m currently learning **React JS, C#, and .Net 👨‍💻**
 
