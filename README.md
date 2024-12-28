@@ -1,5 +1,5 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
-<h1 align="center">Hi 👋, I'm Mohamed Akmal</h1>
+<h1 align="center">Hi 👋, I'm Akmal</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <img align="right" alr="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
