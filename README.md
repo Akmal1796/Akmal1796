@@ -39,11 +39,11 @@
 
 # 📊 GitHub Stats:
   
-![Akmal1796's Stats](https://github-readme-stats.vercel.app/api?username=Akmal1796&theme=vue-dark&show_icons=true&hide_border=true&count_private=true_card_width=1000px)
+![Akmal's Stats](https://github-readme-stats.vercel.app/api?username=Akmal1796&theme=vue-dark&show_icons=true&hide_border=true&count_private=true_card_width=1000px)
 
-[![Akmal1796's Streak](https://streak-stats.demolab.com/?user=Akmal1796&theme=vue-dark)](https://git.io/streak-stats)
+[![Akmal's Streak](https://streak-stats.demolab.com?user=Akmal1796&theme=vue-dark)](https://git.io/streak-stats)
 
-![Akmal1796's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal1796&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Akmal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal1796&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akmal1796&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
