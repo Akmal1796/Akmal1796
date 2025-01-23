@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-<img align="right" alr="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alr="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🔭 I’m currently working on [Library Management System](https://github.com/Akmal1796/BookNexus)
 
