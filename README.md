@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Online Freelancing Platfrom]([(https://github.com/Akmal1796/HireGo.lk)])
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React JS, Python**
+- 💬 Ask me about **Next JS, React JS, and Python**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmal1796&label=Profile%20views&color=0e75b6&style=flat" alt="akmal1796" /> </p>
 <br><br>
