@@ -7,7 +7,6 @@
 <img align="right" alr="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <br><br>
 
-
 - 🔭 I’m currently working on [Online Freelancing Platfrom]([(https://github.com/Akmal1796/HireGo.lk)])
 
 - 🌱 I’m currently learning **React Native**
