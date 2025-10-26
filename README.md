@@ -31,7 +31,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=akmal1796&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akmal1796&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)]
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akmal1796&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)
 
 </div>
 
